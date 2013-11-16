@@ -1,0 +1,15 @@
+/* line 3, /Users/machida/Sites/yokote/source/stylesheets/all.css.sass */
+body {
+  background: #d4d4d4 url("../images/background.png");
+  font-family: sans-serif; }
+
+/* line 7, /Users/machida/Sites/yokote/source/stylesheets/all.css.sass */
+#wrapper {
+  width: 780px;
+  margin: 0 auto; }
+  /* line 10, /Users/machida/Sites/yokote/source/stylesheets/all.css.sass */
+  #wrapper ul {
+    margin-bottom: 40px; }
+  /* line 12, /Users/machida/Sites/yokote/source/stylesheets/all.css.sass */
+  #wrapper li {
+    margin-bottom: 10px; }
